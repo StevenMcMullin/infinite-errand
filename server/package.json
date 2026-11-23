@@ -1,0 +1,1 @@
+{"bin":{"infinite-errand-mcp":"index.js"},"description":"Thin stdio MCP client shim for The Infinite Errand. Forwards tool calls to the hosted service; contains no service logic.","engines":{"node":">=18"},"license":"UNLICENSED","main":"index.js","name":"infinite-errand-mcp-shim","private":true,"type":"commonjs","version":"0.1.0"}
